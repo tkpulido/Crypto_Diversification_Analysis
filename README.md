@@ -1,2 +1,5 @@
 # Crypto_Diversification_Analysis
 IS CRYPTO DECOUPLED FROM THE PRICE ACTION OF STOCKS AND WILL IT INCREASE/DECREASE IN THE FUTURE?
+
+
+try for new branch
