@@ -14,4 +14,4 @@ Tristen Pulido: Quandl API
 Raul Nogales: Integration and Charting
 Tim Laurel: data scrubbbing and documentation
 Team: Presentation and recommendations
-n
+
